@@ -1,4 +1,4 @@
-package ir.ac.kntu.saeedodak.gui;
+package gui;
 
 import java.io.IOException;
 
