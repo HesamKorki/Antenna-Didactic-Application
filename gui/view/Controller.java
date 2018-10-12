@@ -1,4 +1,4 @@
-package ir.ac.kntu.saeedodak.gui.view;
+package gui.view;
 
 import ir.ac.kntu.saeedodak.solution.*;
 import ir.ac.kntu.saeedodak.solution.Point;
