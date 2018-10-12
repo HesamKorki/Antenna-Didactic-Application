@@ -1,4 +1,4 @@
-package ir.ac.kntu.saeedodak.solution;
+package solution;
 
 public class Main {
 
