@@ -1,29 +1,29 @@
-# **Anthenna Didactic Application**
+# **Antenna Didactic Application**
 
 #### **Using Java**
 
-*Welcome to my repository of Anthenna Instructive Application. We visualized some of basic concepts of Anthenna course for a better comprehension.*
+*Welcome to my repository of Antenna Instructive Application. We visualized some of the basic concepts of Antenna course for better comprehension.*
 
 ☑️*Contact me: Hesam.korki@gmail.com*
 
 *All the rights of this project are reserved for Hesam Korki*
 
-The application has seven parts that we will be delving into every one of them separately. In the application each part has an executable button.
+The application has seven parts that we will be delving into every one of them separately. In the application, each section has an executable button.
 
 ## **Persian Glossary**
 
 - By pressing this button, the application will open the excel file of glossary
-- These are particular expressions from "Antenna Theory: Analysis and Design" Book by Constantine A. Balanis from chapter two "Fundamental parameters of Anthennas"
+- These are particular expressions from "Antenna Theory: Analysis and Design" Book by Constantine A. Balanis from chapter two "Fundamental parameters of Antennas."
 
 ## **Kraus and Tai Chart**
 
-- The goal of this part is to compare Exact and Approximate Values(e.g Kraus equation and Tai equation) of Maximum Directivity for U = pow((cos θ),2) Power Patterns.
-- By clicking on the the button, a window pops open and it shows a figure of directivities simultaneously with different colors. Consequently, one can understand the differences and apprehend the resemblences.The corresponding java code for this part is presented in the problem2.java.
-- Red line presents the exact value of directivity, and the orange line and green line represent Kraus and Tai approximations, respectively.
+- The goal of this part is to compare Exact and Approximate Values(e.g. Kraus equation and Tai equation) of Maximum Directivity for U = pow((cos θ),2) Power Patterns.
+- By clicking on the button, a window pops open, and it shows a figure of directivities simultaneously with different colors. Consequently, one can understand the differences and apprehend the resemblance. The corresponding java code for this part is presented in the problem2.java.
+- Red line shows the exact value of directivity, and the orange line and green line represent Kraus and Tai approximations, respectively.
 
 ## **Calculation of Directivity**
 
-- The goal of this part is to calculate directivity for arbitrary angles of a "cos distrubuted power" anthenna.
+- The goal of this part is to calculate directivity for arbitrary angles of a "cos distributed power" antenna.
 - By clicking on the button, a window pops open to let the operator choose his/her arbitrary values; then by clicking on ok, another window containing the directivity value opens. 
 - The corresponding java code for this part is also presented in the problem2.java.
 
@@ -37,7 +37,7 @@ The application has seven parts that we will be delving into every one of them s
 
 ## **Polarization Calculator**
 
-- The goal of this part is to identify the polarization between two arbitrary fields(e.g Ex and Ey)
+- The goal of this part is to identify the polarization between two arbitrary fields(e.g. Ex and Ey)
 - There are three different possible polarization: 1- LP(Linear Polarization) 2- CP(Circular Polarization) 3-EP(Elliptical Polarization)
 - Inputs should be in the given format. To delineate, every field should be put by a complex number.
 - By clicking on the button, a window pops open to let the operator choose his/her arbitrary values; then by clicking on ok, another window containing the Polarization type opens.
@@ -45,11 +45,11 @@ The application has seven parts that we will be delving into every one of them s
 
 ## **Calculating Pr Using Friis Equation**
 
-- The goal of this part is to calculate Pr(Power received) from Friis equation.
-- Inputs are Pt(Power transmitted), f(frequency), R(Resistance), G(Gain of anthenna) and two vectors that should be added with a format commensurate to the previous parts.
+- The goal of this part is to calculate Pr(Power received) from the Friis equation.
+- Inputs are Pt(Power transmitted), f(frequency), R(Resistance), G(Gain of the antenna) and two vectors that should be added with a format commensurate to the previous parts.
 - By clicking on the button, a window pops open to let the operator choose his/her arbitrary values; then by clicking on ok, another window containing the Pr value opens.
 - The corresponding java code for this part is presented in the problem4.java.
-### ** ***
+### **Coda***
 Had you have any further questions, you are welcome to ask me* 
 
 ☑️Email: Hesam.korki@gmail.com
