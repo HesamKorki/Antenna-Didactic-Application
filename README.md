@@ -49,7 +49,7 @@ The application has seven parts that we will be delving into every one of them s
 - Inputs are Pt(Power transmitted), f(frequency), R(Resistance), G(Gain of the antenna) and two vectors that should be added with a format commensurate to the previous parts.
 - By clicking on the button, a window pops open to let the operator choose his/her arbitrary values; then by clicking on ok, another window containing the Pr value opens.
 - The corresponding java code for this part is presented in the solution/problem4.java.
-### **Coda***
+### **Coda**
 Had you have any further questions, you are welcome to ask me* 
 
 ☑️Email: Hesam.korki@gmail.com
